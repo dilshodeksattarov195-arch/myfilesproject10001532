@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailuerify",
+        "uuid": 12211572,
+        "checksum": "qel7wr"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
